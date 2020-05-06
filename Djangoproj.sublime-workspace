@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Mar",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bottom",
+				"border-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"r",
+				"row\tflex-direction"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"to",
+				"padding-top\tproperty"
+			],
+			[
+				"fel",
+				"flex-direction\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"b",
+				"border-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"so",
+				"socialicon"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"border-l",
+				"border-left-style\tproperty"
+			],
+			[
+				"logo",
+				"logoicon"
+			],
+			[
+				"cont",
+				"contanctlogo"
+			],
+			[
+				"con",
+				"contanctlogo"
+			],
+			[
+				"ti",
+				"titletext"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"button",
+				"button1"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"three",
+				"threetitle"
+			],
+			[
+				"thre",
+				"threetitle"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"skill",
+				"skilltitle"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"two",
+				"twoheader"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"fe",
+				"flex-direction\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"se",
+				"sectionthree"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"dec",
+				"text-decoration\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"rever",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bacgrou",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lilystoodt/Documents/new_project/mysite"
+	],
+	"file_history":
+	[
+		"/Users/lilystoodt/Documents/Notebooks/Django-facebook-master/open_facebook/__init__.py",
+		"/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/site-packages/pip/_vendor/packaging/__about__.py",
+		"/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__about__.py",
+		"/Users/lilystoodt/Documents/School/MND/NYC Map/stylesheet.css",
+		"/Users/lilystoodt/Documents/School/MND/NYC Map/java.js",
+		"/Users/lilystoodt/Documents/School/MND/NYC Map/index.htm",
+		"/Users/lilystoodt/Documents/School/MND/Snowman/index.html",
+		"/Users/lilystoodt/Documents/IST 263/Lily/style.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/index (5).htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/Team Organization_2.pdf",
+		"/Users/lilystoodt/Documents/IST 263/boxes/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/email/email.html",
+		"/Users/lilystoodt/Downloads/index (5).htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/style3.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/social.htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/resume.htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/style4.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/code.htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/style2.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/video.htm",
+		"/Users/lilystoodt/Documents/IST 263/Lily/demo.js",
+		"/Users/lilystoodt/Documents/IST 263/Lily/slide.js",
+		"/Users/lilystoodt/Documents/IST 263/zoo/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/zoo/style.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/test3.js",
+		"/Users/lilystoodt/Documents/IST 263/Lily/test2.css",
+		"/Users/lilystoodt/Documents/IST 263/Lily/test.html",
+		"/Users/lilystoodt/Documents/IST 263/nine/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/zoo/active.js",
+		"/Users/lilystoodt/Documents/IST 263/zoo/events.js",
+		"/Users/lilystoodt/Documents/IST 263/zoo/internal.htm",
+		"/Users/lilystoodt/Documents/IST 263/ten/demo.js",
+		"/Users/lilystoodt/Documents/IST 263/Research&Discovery.htm",
+		"/Users/lilystoodt/Documents/IST 263/studio/style.css",
+		"/Users/lilystoodt/Documents/IST 263/studio/index.html",
+		"/Users/lilystoodt/Documents/IST 263/nine/style.css",
+		"/Users/lilystoodt/Documents/IST 263/nine/demo.js",
+		"/Users/lilystoodt/Documents/IST 263/eight/style.css",
+		"/Users/lilystoodt/Documents/IST 263/eight/index.html",
+		"/Users/lilystoodt/Documents/IST 263/eight/style",
+		"/Users/lilystoodt/Documents/IST 263/usatoday/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/usatoday/usatoday.css",
+		"/Users/lilystoodt/Documents/IST 263/spotify/style.css",
+		"/Users/lilystoodt/Documents/IST 263/spotify/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/six/style.css",
+		"/Users/lilystoodt/Documents/IST 263/six/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/five/style.css",
+		"/Users/lilystoodt/Documents/IST 263/five/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/four/dropdowns.css",
+		"/Users/lilystoodt/Documents/IST 263/four/stylesheet.css",
+		"/Users/lilystoodt/Documents/IST 263/four/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/three/demo.css",
+		"/Users/lilystoodt/Documents/IST 263/three/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/two/demo.css",
+		"/Users/lilystoodt/Documents/IST 263/two/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/one/style.css",
+		"/Users/lilystoodt/Documents/IST 263/one/index.htm",
+		"/Users/lilystoodt/Documents/IST 263/flex/flex.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Djangoproj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/IST 263/zoo/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
